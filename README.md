@@ -39,4 +39,3 @@ This project helped me understand how network traffic is captured, filtered, and
 ## HTTPS/TLS Traffic
 ![HTTPS Traffic](screenshots/https-traffic.png)
 ## Screenshots
-Screenshots are included in the screenshots folder.
