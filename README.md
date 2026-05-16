@@ -27,5 +27,16 @@ I captured live network traffic while visiting websites and using normal interne
 ## What I Learned
 This project helped me understand how network traffic is captured, filtered, and analyzed. It strengthened my knowledge of basic networking, packet behavior, troubleshooting, and cybersecurity monitoring.
 
+## DNS Traffic
+![DNS Traffic](screenshots/dns-traffic.png)
+
+## TCP Traffic
+![TCP Traffic](screenshots/tcp-traffic.png)
+
+## TCP Handshake
+![TCP Handshake](screenshots/tcp-handshake.png)
+
+## HTTPS/TLS Traffic
+![HTTPS Traffic](screenshots/https-traffic.png)
 ## Screenshots
 Screenshots are included in the screenshots folder.
